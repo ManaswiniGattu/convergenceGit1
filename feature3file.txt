@@ -1,1 +1,1 @@
-first line in feature3 branch
+first line in feature3 branch conflict 
